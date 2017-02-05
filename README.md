@@ -8,6 +8,28 @@ You might also like [awesome-haskell](https://github.com/krispo/awesome-haskell)
 
 *Please read the [contribution guidelines](contributing.md) before contributing.*
 
+## Contents
+
+- [Introduction](#introduction)
+  - [Overview](#overview)
+- [Community](#community)
+  - [Chat](#chat)
+- [License](#license)
+
+## Introduction
+
+### Overview
+
+- [Eta](http://eta-lang.org/) - Official website.
+- [GitHub](https://github.com/typelead/eta) - Eta @ GitHub.
+
+## Community
+
+### Chat
+
+- [Gitter](https://gitter.im/typelead/eta) - Gitter channel.
+
+
 ## License
 
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
