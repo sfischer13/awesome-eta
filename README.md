@@ -16,6 +16,7 @@ You might also like [awesome-haskell](https://github.com/krispo/awesome-haskell)
   - [Comparisons](#comparisons)
 - [Community](#community)
   - [Chat](#chat)
+  - [Questions](#questions)
 - [License](#license)
 
 ## Introduction
@@ -41,6 +42,9 @@ You might also like [awesome-haskell](https://github.com/krispo/awesome-haskell)
 
 - [Gitter](https://gitter.im/typelead/eta) - Gitter channel.
 
+### Questions
+
+- [Google Group](https://groups.google.com/forum/#!forum/eta-discuss) - Eta Google Group.
 
 ## License
 
