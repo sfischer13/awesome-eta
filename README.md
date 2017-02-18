@@ -17,6 +17,7 @@ You might also like [awesome-haskell](https://github.com/krispo/awesome-haskell)
 - [Community](#community)
   - [Chat](#chat)
   - [Questions](#questions)
+  - [Social Media](#social-media)
 - [License](#license)
 
 ## Introduction
@@ -45,6 +46,10 @@ You might also like [awesome-haskell](https://github.com/krispo/awesome-haskell)
 ### Questions
 
 - [Google Group](https://groups.google.com/forum/#!forum/eta-discuss) - Eta Google Group.
+
+### Social Media
+
+- [Twitter](https://twitter.com/eta_lang) - Official Twitter account.
 
 ## License
 
