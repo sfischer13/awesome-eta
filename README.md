@@ -14,6 +14,7 @@ You might also like [awesome-haskell](https://github.com/krispo/awesome-haskell)
   - [Overview](#overview)
   - [First Steps](#first-steps)
   - [Comparisons](#comparisons)
+  - [Official Resources](#official-resources)
 - [Community](#community)
   - [Chat](#chat)
   - [Questions](#questions)
@@ -36,6 +37,11 @@ You might also like [awesome-haskell](https://github.com/krispo/awesome-haskell)
 
 - [Eta vs. Haskell](http://eta-lang.org/docs/html/faq.html#why-eta-and-not-haskell) - Differences between Eta and Haskell.
 - [Eta vs. Frege](http://eta-lang.org/docs/html/faq.html#how-is-eta-different-from-frege) - Differences between Eta and Frege.
+
+### Official Resources
+
+- [Documentaiton](http://eta-lang.org/docs/html/) - Eta documentation.
+- [FAQ](http://eta-lang.org/docs/html/faq.html) - Frequently asked questions.
 
 ## Community
 
