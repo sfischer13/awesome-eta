@@ -69,6 +69,8 @@ You might also like [awesome-haskell](https://github.com/krispo/awesome-haskell)
 
 ### Courses
 
+- [FP101x](https://www.edx.org/course/introduction-functional-programming-delftx-fp101x-0) - Introduction to Functional Programming on edX.
+
 ### Talks
 
 ## License
