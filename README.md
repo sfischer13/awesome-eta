@@ -81,6 +81,8 @@ You might also like [awesome-haskell](https://github.com/krispo/awesome-haskell)
 
 ### Android
 
+- [eta-android](https://github.com/puffnfresh/eta-android) - Example of Eta on Android.
+
 ## License
 
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
