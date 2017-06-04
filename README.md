@@ -19,6 +19,7 @@ You might also like [awesome-haskell](https://github.com/krispo/awesome-haskell)
   - [Chat](#chat)
   - [Questions](#questions)
   - [Social Media](#social-media)
+  - [Groups](#groups)
 - [Information](#information)
   - [Conferences](#conferences)
   - [Courses](#courses)
@@ -62,6 +63,8 @@ You might also like [awesome-haskell](https://github.com/krispo/awesome-haskell)
 ### Social Media
 
 - [Twitter](https://twitter.com/eta_lang) - Official Twitter account.
+
+### Groups
 
 ## Information
 
