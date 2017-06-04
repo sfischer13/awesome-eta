@@ -73,6 +73,8 @@ You might also like [awesome-haskell](https://github.com/krispo/awesome-haskell)
 
 ### Blogs
 
+- [Eta programming language](https://medium.com/eta-programming-language) - Official blog.
+
 ### Conferences
 
 - [ICFP](http://www.icfpconference.org/) - International Conference on Functional Programming.
