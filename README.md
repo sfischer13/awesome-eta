@@ -66,6 +66,8 @@ You might also like [awesome-haskell](https://github.com/krispo/awesome-haskell)
 
 ### Groups
 
+- [Bangalore](https://www.meetup.com/Bangalore-Eta-Meetup/) - Bangalore Eta Meetup.
+
 ## Information
 
 ### Conferences
