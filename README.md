@@ -21,6 +21,7 @@ You might also like [awesome-haskell](https://github.com/krispo/awesome-haskell)
   - [Social Media](#social-media)
   - [Groups](#groups)
 - [Information](#information)
+  - [Blogs](#blogs)
   - [Conferences](#conferences)
   - [Courses](#courses)
   - [Talks](#talks)
@@ -69,6 +70,8 @@ You might also like [awesome-haskell](https://github.com/krispo/awesome-haskell)
 - [Bangalore](https://www.meetup.com/Bangalore-Eta-Meetup/) - Bangalore Eta Meetup.
 
 ## Information
+
+### Blogs
 
 ### Conferences
 
