@@ -86,6 +86,7 @@ You might also like [awesome-haskell](https://github.com/krispo/awesome-haskell)
 
 ### Talks
 
+- [Using Eta](https://speakerdeck.com/filippovitale/using-eta-for-what-you-dont-like-writing-in-scala) - Comparison of Eta and Scala.
 - [ICFP Videos](https://www.youtube.com/channel/UCwRL68qZFfub1Ep1EScfmBw) - Videos about functional programming.
 
 ## Sample Applications
