@@ -73,6 +73,8 @@ You might also like [awesome-haskell](https://github.com/krispo/awesome-haskell)
 
 ### Talks
 
+- [ICFP Videos](https://www.youtube.com/channel/UCwRL68qZFfub1Ep1EScfmBw) - Videos about functional programming.
+
 ## License
 
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
