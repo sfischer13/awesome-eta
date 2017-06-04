@@ -27,6 +27,7 @@ You might also like [awesome-haskell](https://github.com/krispo/awesome-haskell)
   - [Talks](#talks)
 - [Sample Applications](#sample-applications)
   - [Android](#android)
+  - [Miscellaneous](#miscellaneous)
 - [License](#license)
 
 ## Introduction
@@ -94,6 +95,8 @@ You might also like [awesome-haskell](https://github.com/krispo/awesome-haskell)
 ### Android
 
 - [eta-android](https://github.com/puffnfresh/eta-android) - Example of Eta on Android.
+
+### Miscellaneous
 
 ## License
 
