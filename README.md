@@ -10,6 +10,10 @@ You might also like [awesome-haskell](https://github.com/krispo/awesome-haskell)
 
 ## Contents
 
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+
+
 - [Introduction](#introduction)
   - [Overview](#overview)
   - [First Steps](#first-steps)
@@ -29,6 +33,8 @@ You might also like [awesome-haskell](https://github.com/krispo/awesome-haskell)
   - [Android](#android)
   - [Miscellaneous](#miscellaneous)
 - [License](#license)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
 ## Introduction
 
