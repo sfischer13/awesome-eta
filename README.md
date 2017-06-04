@@ -24,6 +24,7 @@ You might also like [awesome-haskell](https://github.com/krispo/awesome-haskell)
   - [Courses](#courses)
   - [Talks](#talks)
 - [Sample Applications](#sample-applications)
+  - [Android](#android)
 - [License](#license)
 
 ## Introduction
@@ -77,6 +78,8 @@ You might also like [awesome-haskell](https://github.com/krispo/awesome-haskell)
 - [ICFP Videos](https://www.youtube.com/channel/UCwRL68qZFfub1Ep1EScfmBw) - Videos about functional programming.
 
 ## Sample Applications
+
+### Android
 
 ## License
 
