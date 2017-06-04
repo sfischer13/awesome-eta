@@ -65,6 +65,8 @@ You might also like [awesome-haskell](https://github.com/krispo/awesome-haskell)
 
 ### Conferences
 
+- [ICFP](http://www.icfpconference.org/) - International Conference on Functional Programming.
+
 ### Courses
 
 ### Talks
