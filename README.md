@@ -20,10 +20,6 @@ You might also like [awesome-haskell](https://github.com/krispo/awesome-haskell)
   - [Comparisons](#comparisons)
   - [Official Resources](#official-resources)
 - [Community](#community)
-  - [Chat](#chat)
-  - [Questions](#questions)
-  - [Social Media](#social-media)
-  - [Groups](#groups)
 - [Information](#information)
   - [Blogs](#blogs)
   - [Conferences](#conferences)
@@ -60,20 +56,9 @@ You might also like [awesome-haskell](https://github.com/krispo/awesome-haskell)
 
 ## Community
 
-### Chat
-
 - [Gitter](https://gitter.im/typelead/eta) - Gitter channel.
-
-### Questions
-
 - [Google Group](https://groups.google.com/forum/#!forum/eta-discuss) - Eta Google Group.
-
-### Social Media
-
 - [Twitter](https://twitter.com/eta_lang) - Official Twitter account.
-
-### Groups
-
 - [Bangalore](https://www.meetup.com/Bangalore-Eta-Meetup/) - Bangalore Eta Meetup.
 
 ## Information
