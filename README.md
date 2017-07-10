@@ -55,7 +55,7 @@ You might also like [awesome-haskell](https://github.com/krispo/awesome-haskell)
 
 ### Official Resources
 
-- [Documentaiton](http://eta-lang.org/docs/html/) - Eta documentation.
+- [Documentation](http://eta-lang.org/docs/html/) - Eta documentation.
 - [FAQ](http://eta-lang.org/docs/html/faq.html) - Frequently asked questions.
 
 ## Community
