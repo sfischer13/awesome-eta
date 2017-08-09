@@ -21,6 +21,7 @@ You might also like [awesome-haskell](https://github.com/krispo/awesome-haskell)
   - [Official Resources](#official-resources)
 - [Community](#community)
 - [Information](#information)
+  - [Articles](#articles)
   - [Blogs](#blogs)
   - [Conferences](#conferences)
   - [Courses](#courses)
@@ -67,6 +68,11 @@ You might also like [awesome-haskell](https://github.com/krispo/awesome-haskell)
 - [Bangalore](https://www.meetup.com/Bangalore-Eta-Meetup/) - Bangalore Eta Meetup.
 
 ## Information
+
+### Articles
+
+- [InfoWorld](http://www.infoworld.com/article/3157373/java/new-jvm-language-stands-apart-from-scala-clojure.html) - Short article about Eta.
+
 
 ### Blogs
 
