@@ -62,9 +62,11 @@ You might also like [awesome-haskell](https://github.com/krispo/awesome-haskell)
 ## Community
 
 - [Stack Overflow](https://stackoverflow.com/questions/tagged/eta) - Eta tag on Stack Overflow.
-- [Gitter](https://gitter.im/typelead/eta) - Gitter channel.
 - [Google Group](https://groups.google.com/forum/#!forum/eta-discuss) - Eta Google Group.
 - [Twitter](https://twitter.com/eta_lang) - Official Twitter account.
+- [Gitter](https://gitter.im/typelead/eta) - Gitter channel.
+- [Slack](https://slack.eta-lang.org/) - Slack channel.
+- [IRC](https://kiwiirc.com/client/irc.freenode.net/#eta-lang) - IRC channel.
 - [Bangalore](https://www.meetup.com/Bangalore-Eta-Meetup/) - Bangalore Eta Meetup.
 
 ## Information
