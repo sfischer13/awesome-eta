@@ -58,6 +58,7 @@ You might also like [awesome-haskell](https://github.com/krispo/awesome-haskell)
 - [Eta Blog](https://blog.eta-lang.org/the-best-of-both-the-worlds-eta-and-java-part-2-d7cf27acdef7) - Using Eta with Java, part II.
 - [Eta Blog](https://blog.eta-lang.org/eta-in-practice-working-with-haskell-packages-5dfa3dc0c98a) - Using Haskell packages in Eta code.
 - [Eta Blog](https://blog.eta-lang.org/integrating-eta-into-your-scala-projects-a8d494a2c5b0) - Using Eta code in Scala projects.
+- [Docker Hub](https://hub.docker.com/r/typelead/eta/) - Docker repo for Eta.
 
 ## Community
 
