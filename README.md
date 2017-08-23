@@ -54,6 +54,7 @@ You might also like [awesome-haskell](https://github.com/krispo/awesome-haskell)
 
 - [Documentation](http://eta-lang.org/docs/html/) - Eta documentation.
 - [FAQ](http://eta-lang.org/docs/html/faq.html) - Frequently asked questions.
+- [Tour of Eta](https://tour.eta-lang.org/) - Introduction to Eta.
 - [Eta Blog](https://blog.eta-lang.org/https-medium-com-jyothsnasrinivas-the-best-of-both-the-worlds-eta-and-java-part-1-336d181de89d) - Using Eta with Java, part I.
 - [Eta Blog](https://blog.eta-lang.org/the-best-of-both-the-worlds-eta-and-java-part-2-d7cf27acdef7) - Using Eta with Java, part II.
 - [Eta Blog](https://blog.eta-lang.org/eta-in-practice-working-with-haskell-packages-5dfa3dc0c98a) - Using Haskell packages in Eta code.
