@@ -18,6 +18,7 @@ You might also like [awesome-haskell](https://github.com/krispo/awesome-haskell)
   - [Overview](#overview)
   - [First Steps](#first-steps)
   - [Comparisons](#comparisons)
+  - [Compatibility](#compatibility)
   - [Official Resources](#official-resources)
 - [Community](#community)
 - [Twitter](#twitter)
@@ -50,6 +51,12 @@ You might also like [awesome-haskell](https://github.com/krispo/awesome-haskell)
 
 - [Eta vs. Haskell](http://eta-lang.org/docs/html/faq.html#why-eta-and-not-haskell) - Differences between Eta and Haskell.
 - [Eta vs. Frege](http://eta-lang.org/docs/html/faq.html#how-is-eta-different-from-frege) - Differences between Eta and Frege.
+
+### Compatibility
+
+- [Etlas Packages](https://github.com/typelead/eta-hackage#supported-packages) - Hackage packages that work with Eta.
+- [Template Haskell](http://eta-lang.org/docs/html/faq.html#will-eta-have-an-interpreter-and-support-templatehaskell-in-the-future) - Status of Template Haskell.
+- [GHC 8](http://eta-lang.org/docs/html/faq.html#will-eta-be-compatible-with-ghc-8) - Compatibility with GHC 8.
 
 ### Official Resources
 
