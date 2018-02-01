@@ -2,7 +2,7 @@
 
 [<img src="https://github.com/typelead/eta/blob/master/eta_logo.png" align="right" width="100" alt="Eta">](https://github.com/typelead/eta)
 
-> Useful resources for the [Eta](http://eta-lang.org/) programming language
+> Useful resources for the [Eta](https://eta-lang.org/) programming language
 
 You might also like [awesome-haskell](https://github.com/krispo/awesome-haskell).
 
@@ -90,7 +90,7 @@ You might also like [awesome-haskell](https://github.com/krispo/awesome-haskell)
 
 ### Articles
 
-- [InfoWorld](http://www.infoworld.com/article/3157373/java/new-jvm-language-stands-apart-from-scala-clojure.html) - Short article about Eta.
+- [InfoWorld](https://www.infoworld.com/article/3157373/java/new-jvm-language-stands-apart-from-scala-clojure.html) - Short article about Eta.
 - [Jaxenter](https://jaxenter.com/eta-pirates-of-the-jvm-133518.html) - Functional programming made easy: Here comes Eta.
 
 
