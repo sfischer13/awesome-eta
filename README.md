@@ -25,6 +25,7 @@ You might also like [awesome-haskell](https://github.com/krispo/awesome-haskell)
 - [Information](#information)
   - [Articles](#articles)
   - [Blogs](#blogs)
+  - [Tutorials](#tutorials)
   - [Conferences](#conferences)
   - [Courses](#courses)
   - [Talks](#talks)
@@ -39,30 +40,32 @@ You might also like [awesome-haskell](https://github.com/krispo/awesome-haskell)
 
 ### Overview
 
-- [Eta](http://eta-lang.org/) - Official website.
+- [Eta](https://eta-lang.org/) - Official website.
 - [GitHub](https://github.com/typelead/eta) - Eta @ GitHub.
 
 ### First Steps
 
-- [Getting Started](http://eta-lang.org/docs/html/getting-started.html) - First steps with Eta.
-- [REPL](http://eta-lang.org/playground.html) - Edit and run Eta code on the web.
+- [Getting Started](https://eta-lang.org/docs/eta-concepts/getting-started/what-is-eta) - First steps with Eta.
+- [Tour of Eta](https://tour.eta-lang.org) - Learn Functional Programming the Easy Way.
 
 ### Comparisons
 
-- [Eta vs. Haskell](http://eta-lang.org/docs/html/faq.html#why-eta-and-not-haskell) - Differences between Eta and Haskell.
-- [Eta vs. Frege](http://eta-lang.org/docs/html/faq.html#how-is-eta-different-from-frege) - Differences between Eta and Frege.
+- [Eta vs. Haskell](https://eta-lang.org/docs/faq#eta-not-haskell) - Differences between Eta and Haskell.
+- [Eta vs. Frege](https://eta-lang.org/docs/faq#eta-vs-frege) - Differences between Eta and Frege.
 
 ### Compatibility
 
 - [Etlas Packages](https://github.com/typelead/eta-hackage#supported-packages) - Hackage packages that work with Eta.
-- [Template Haskell](http://eta-lang.org/docs/html/faq.html#will-eta-have-an-interpreter-and-support-templatehaskell-in-the-future) - Status of Template Haskell.
-- [GHC 8](http://eta-lang.org/docs/html/faq.html#will-eta-be-compatible-with-ghc-8) - Compatibility with GHC 8.
+- [Template Haskell](https://eta-lang.org/docs/faq#eta-repl-support) - Status of Template Haskell.
+- [GHC 8](https://eta-lang.org/docs/faq#is-eta-compatible-ghc8) - Compatibility with GHC 8.
 
 ### Official Resources
 
-- [Documentation](http://eta-lang.org/docs/html/) - Eta documentation.
-- [FAQ](http://eta-lang.org/docs/html/faq.html) - Frequently asked questions.
+- [Documentation](https://eta-lang.org/docs/) - Eta documentation.
+- [Tutorials](https://eta-lang.org/docs/eta-tutorials) - Eta tutorials.
+- [FAQ](https://eta-lang.org/docs/faq) - Frequently asked questions.
 - [Tour of Eta](https://tour.eta-lang.org/) - Introduction to Eta.
+- [Eta Cheatsheet](https://eta-lang.org/docs/cheatsheet) - Eta reference.
 - [Eta Blog](https://blog.eta-lang.org/https-medium-com-jyothsnasrinivas-the-best-of-both-the-worlds-eta-and-java-part-1-336d181de89d) - Using Eta with Java, part I.
 - [Eta Blog](https://blog.eta-lang.org/the-best-of-both-the-worlds-eta-and-java-part-2-d7cf27acdef7) - Using Eta with Java, part II.
 - [Eta Blog](https://blog.eta-lang.org/eta-in-practice-working-with-haskell-packages-5dfa3dc0c98a) - Using Haskell packages in Eta code.
@@ -88,6 +91,7 @@ You might also like [awesome-haskell](https://github.com/krispo/awesome-haskell)
 ### Articles
 
 - [InfoWorld](http://www.infoworld.com/article/3157373/java/new-jvm-language-stands-apart-from-scala-clojure.html) - Short article about Eta.
+- [Jaxenter](https://jaxenter.com/eta-pirates-of-the-jvm-133518.html) - Functional programming made easy: Here comes Eta.
 
 
 ### Blogs
@@ -96,9 +100,15 @@ You might also like [awesome-haskell](https://github.com/krispo/awesome-haskell)
 - [TypeLead](https://blog.typelead.com/) - Blog of the company behind Eta.
 - [Eta on Android](https://brianmckenna.org/blog/eta_android) - Post about using Eta on Android.
 
+### Tutorials
+
+- [From Loops to Recursion](https://eta-lang.org/docs/eta-tutorials/from-loops-to-recursion/loops) - Learn how to start thinking in terms of recursion.
+- [Web Service](https://eta-lang.org/docs/eta-tutorials/web-services/overview) - How to set up a simple web service.
+
 ### Conferences
 
 - [ICFP](http://www.icfpconference.org/) - International Conference on Functional Programming.
+
 
 ### Courses
 
@@ -110,6 +120,8 @@ You might also like [awesome-haskell](https://github.com/krispo/awesome-haskell)
 - [Using Eta](https://speakerdeck.com/filippovitale/using-eta-for-what-you-dont-like-writing-in-scala) - Comparison of Eta and Scala.
 - [Eta Fibers](https://rahulmutt.github.io/slides/fuconf17-eta-fibers/slides.html#1) - Concurrency on the JVM.
 - [ICFP Videos](https://www.youtube.com/channel/UCwRL68qZFfub1Ep1EScfmBw) - Videos about functional programming.
+- [Functional Conf - 2016](https://www.youtube.com/watch?v=CscBSNF6qnE) - Bringing the Power of Haskell to the JVM.
+- [Functional Conf - 2017](https://www.youtube.com/watch?v=ZuJg2cfmSmw) - Eta Fibers: Towards Better Concurrency on the JVM.
 
 ## Sample Applications
 
