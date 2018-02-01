@@ -74,7 +74,6 @@ You might also like [awesome-haskell](https://github.com/krispo/awesome-haskell)
 
 ## Community
 
-- [Stack Overflow](https://stackoverflow.com/questions/tagged/eta) - Eta tag on Stack Overflow.
 - [Google Group](https://groups.google.com/forum/#!forum/eta-discuss) - Eta Google Group.
 - [Gitter](https://gitter.im/typelead/eta) - Gitter channel.
 - [Slack](https://slack.eta-lang.org/) - Slack channel.
