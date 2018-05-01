@@ -42,7 +42,7 @@ You might also like [awesome-haskell](https://github.com/krispo/awesome-haskell)
 
 ### First Steps
 
-- [Getting Started](https://eta-lang.org/docs/eta-concepts/getting-started/what-is-eta) - First steps with Eta.
+- [Getting Started](https://eta-lang.org/docs/user-guides/eta-user-guide/introduction/what-is-eta) - First steps with Eta.
 - [Tour of Eta](https://tour.eta-lang.org) - Learn Functional Programming the Easy Way.
 
 ### Comparisons
@@ -59,10 +59,10 @@ You might also like [awesome-haskell](https://github.com/krispo/awesome-haskell)
 ### Official Resources
 
 - [Documentation](https://eta-lang.org/docs/) - Eta documentation.
-- [Tutorials](https://eta-lang.org/docs/eta-tutorials) - Eta tutorials.
+- [Tutorials](https://eta-lang.org/docs/tutorials) - Eta tutorials.
 - [FAQ](https://eta-lang.org/docs/faq) - Frequently asked questions.
 - [Tour of Eta](https://tour.eta-lang.org/) - Introduction to Eta.
-- [Eta Cheatsheet](https://eta-lang.org/docs/cheatsheet) - Eta reference.
+- [Eta Cheatsheets](https://eta-lang.org/docs/cheatsheets) - Eta reference.
 - [Eta Blog](https://blog.eta-lang.org/https-medium-com-jyothsnasrinivas-the-best-of-both-the-worlds-eta-and-java-part-1-336d181de89d) - Using Eta with Java, part I.
 - [Eta Blog](https://blog.eta-lang.org/the-best-of-both-the-worlds-eta-and-java-part-2-d7cf27acdef7) - Using Eta with Java, part II.
 - [Eta Blog](https://blog.eta-lang.org/eta-in-practice-working-with-haskell-packages-5dfa3dc0c98a) - Using Haskell packages in Eta code.
