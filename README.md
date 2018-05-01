@@ -23,7 +23,6 @@ You might also like [awesome-haskell](https://github.com/krispo/awesome-haskell)
 - [Information](#information)
   - [Articles](#articles)
   - [Blogs](#blogs)
-  - [Tutorials](#tutorials)
   - [Conferences](#conferences)
   - [Courses](#courses)
   - [Talks](#talks)
@@ -96,11 +95,6 @@ You might also like [awesome-haskell](https://github.com/krispo/awesome-haskell)
 - [Eta programming language](https://blog.eta-lang.org/) - Official blog.
 - [TypeLead](https://blog.typelead.com/) - Blog of the company behind Eta.
 - [Eta on Android](https://brianmckenna.org/blog/eta_android) - Post about using Eta on Android.
-
-### Tutorials
-
-- [From Loops to Recursion](https://eta-lang.org/docs/eta-tutorials/from-loops-to-recursion/loops) - Learn how to start thinking in terms of recursion.
-- [Web Service](https://eta-lang.org/docs/eta-tutorials/web-services/overview) - How to set up a simple web service.
 
 ### Conferences
 
