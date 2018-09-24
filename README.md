@@ -44,6 +44,7 @@ You might also like [awesome-haskell](https://github.com/krispo/awesome-haskell)
 
 - [Getting Started](https://eta-lang.org/docs/user-guides/eta-user-guide/introduction/what-is-eta) - First steps with Eta.
 - [Tour of Eta](https://tour.eta-lang.org) - Learn Functional Programming the Easy Way.
+- [Prelude](https://github.com/eta-lang/eta-prelude) - Default modules for an easier start.
 
 ### Comparisons
 
@@ -89,7 +90,6 @@ You might also like [awesome-haskell](https://github.com/krispo/awesome-haskell)
 - [InfoWorld](https://www.infoworld.com/article/3157373/java/new-jvm-language-stands-apart-from-scala-clojure.html) - Short article about Eta.
 - [Jaxenter](https://jaxenter.com/eta-pirates-of-the-jvm-133518.html) - Functional programming made easy: Here comes Eta.
 
-
 ### Blogs
 
 - [Eta programming language](https://blog.eta-lang.org/) - Official blog.
@@ -99,7 +99,6 @@ You might also like [awesome-haskell](https://github.com/krispo/awesome-haskell)
 ### Conferences
 
 - [ICFP](http://www.icfpconference.org/) - International Conference on Functional Programming.
-
 
 ### Courses
 
