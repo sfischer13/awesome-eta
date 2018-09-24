@@ -123,6 +123,7 @@ You might also like [awesome-haskell](https://github.com/krispo/awesome-haskell)
 ### Web
 
 - [eta-todo](https://github.com/Jyothsnasrinivas/eta-todo) - Example of a Spock web application written in Eta.
+- [eta-yesod-minimal](https://github.com/Jyothsnasrinivas/eta-yesod-minimal) - Example of a Yesod web application in Eta.
 
 ### Miscellaneous
 
