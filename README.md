@@ -28,6 +28,7 @@ You might also like [awesome-haskell](https://github.com/krispo/awesome-haskell)
   - [Talks](#talks)
 - [Sample Applications](#sample-applications)
   - [Android](#android)
+  - [Web](#web)
   - [Miscellaneous](#miscellaneous)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
