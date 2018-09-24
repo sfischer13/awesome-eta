@@ -120,6 +120,10 @@ You might also like [awesome-haskell](https://github.com/krispo/awesome-haskell)
 - [eta-android](https://github.com/puffnfresh/eta-android) - Example of Eta on Android.
 - [eta-android-2048](https://github.com/Jyothsnasrinivas/eta-android-2048) - The 2048 game for Android.
 
+### Web
+
+- [eta-todo](https://github.com/Jyothsnasrinivas/eta-todo) - Example of a Spock web application written in Eta.
+
 ### Miscellaneous
 
 - [eta-examples](https://github.com/typelead/eta-examples) - Examples of Eta code.
