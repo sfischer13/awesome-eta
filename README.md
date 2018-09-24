@@ -118,6 +118,7 @@ You might also like [awesome-haskell](https://github.com/krispo/awesome-haskell)
 ### Android
 
 - [eta-android](https://github.com/puffnfresh/eta-android) - Example of Eta on Android.
+- [eta-android-2048](https://github.com/Jyothsnasrinivas/eta-android-2048) - The 2048 game for Android.
 
 ### Miscellaneous
 
