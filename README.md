@@ -26,6 +26,7 @@ You might also like [awesome-haskell](https://github.com/krispo/awesome-haskell)
   - [Conferences](#conferences)
   - [Courses](#courses)
   - [Talks](#talks)
+- [Tools](#tools)
 - [Sample Applications](#sample-applications)
   - [Android](#android)
   - [Web](#web)
@@ -112,6 +113,11 @@ You might also like [awesome-haskell](https://github.com/krispo/awesome-haskell)
 - [ICFP Videos](https://www.youtube.com/channel/UCwRL68qZFfub1Ep1EScfmBw) - Videos about functional programming.
 - [Functional Conf - 2016](https://www.youtube.com/watch?v=CscBSNF6qnE) - Bringing the Power of Haskell to the JVM.
 - [Functional Conf - 2017](https://www.youtube.com/watch?v=ZuJg2cfmSmw) - Eta Fibers: Towards Better Concurrency on the JVM.
+
+## Tools
+
+- [sbt](https://github.com/typelead/sbt-eta) - Plugin for integrating Eta into Scala.
+- [gradle](https://github.com/typelead/gradle-eta) - Gradle plugin for Eta projects.
 
 ## Sample Applications
 
