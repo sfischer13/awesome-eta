@@ -115,6 +115,7 @@ You might also like [awesome-haskell](https://github.com/krispo/awesome-haskell)
 
 ## Tools
 
+- [IntelliJ Eta](https://github.com/typelead/intellij-eta) - Plugin for IntelliJ.
 - [sbt](https://github.com/typelead/sbt-eta) - Plugin for integrating Eta into Scala.
 - [gradle](https://github.com/typelead/gradle-eta) - Gradle plugin for Eta projects.
 
