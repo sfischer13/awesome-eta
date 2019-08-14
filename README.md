@@ -108,6 +108,7 @@ You might also like [awesome-haskell](https://github.com/krispo/awesome-haskell)
 
 - [Introduction to Eta](https://www.youtube.com/watch?v=hmDLNO7Gkxs) - Introduction by the creator of Eta.
 - [Introduction to Eta](https://brianmckenna.org/files/presentations/lambdajam-2017-eta.pdf) - Introduction to the language and its origin.
+- [Haskell for JVM](https://www.youtube.com/watch?v=P1dmHKJ2vak) - Talk at LambdaConf about porting a language to the JVM.
 - [Using Eta](https://speakerdeck.com/filippovitale/using-eta-for-what-you-dont-like-writing-in-scala) - Comparison of Eta and Scala.
 - [Eta Fibers](https://rahulmutt.github.io/slides/fuconf17-eta-fibers/slides.html#1) - Concurrency on the JVM.
 - [ICFP Videos](https://www.youtube.com/channel/UCwRL68qZFfub1Ep1EScfmBw) - Videos about functional programming.
