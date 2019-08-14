@@ -94,7 +94,6 @@ You might also like [awesome-haskell](https://github.com/krispo/awesome-haskell)
 ### Blogs
 
 - [Eta programming language](https://blog.eta-lang.org/) - Official blog.
-- [TypeLead](https://blog.typelead.com/) - Blog of the company behind Eta.
 - [Eta on Android](https://brianmckenna.org/blog/eta_android) - Post about using Eta on Android.
 
 ### Conferences
