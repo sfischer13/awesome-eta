@@ -46,7 +46,6 @@ You might also like [awesome-haskell](https://github.com/krispo/awesome-haskell)
 ### First Steps
 
 - [Getting Started](https://eta-lang.org/docs/user-guides/eta-user-guide/introduction/what-is-eta) - First steps with Eta.
-- [Tour of Eta](https://tour.eta-lang.org) - Learn Functional Programming the Easy Way.
 - [Prelude](https://github.com/eta-lang/eta-prelude) - Default modules for an easier start.
 
 ### Comparisons
@@ -62,10 +61,8 @@ You might also like [awesome-haskell](https://github.com/krispo/awesome-haskell)
 
 ### Official Resources
 
-- [Documentation](https://eta-lang.org/docs/) - Eta documentation.
 - [Tutorials](https://eta-lang.org/docs/tutorials) - Eta tutorials.
 - [FAQ](https://eta-lang.org/docs/faq) - Frequently asked questions.
-- [Tour of Eta](https://tour.eta-lang.org/) - Introduction to Eta.
 - [Eta Cheatsheets](https://eta-lang.org/docs/cheatsheets) - Eta reference.
 - [Eta Blog: Java I](https://blog.eta-lang.org/https-medium-com-jyothsnasrinivas-the-best-of-both-the-worlds-eta-and-java-part-1-336d181de89d) - Using Eta with Java, part I.
 - [Eta Blog: Java II](https://blog.eta-lang.org/the-best-of-both-the-worlds-eta-and-java-part-2-d7cf27acdef7) - Using Eta with Java, part II.
@@ -77,7 +74,6 @@ You might also like [awesome-haskell](https://github.com/krispo/awesome-haskell)
 
 - [Google Group](https://groups.google.com/forum/#!forum/eta-discuss) - Eta Google Group.
 - [Gitter](https://gitter.im/typelead/eta) - Gitter channel.
-- [Slack](https://slack.eta-lang.org/) - Slack channel.
 - [IRC](https://kiwiirc.com/client/irc.freenode.net/#eta-lang) - IRC channel.
 
 ## Twitter
