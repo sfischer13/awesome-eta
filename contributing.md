@@ -2,7 +2,7 @@
 
 Please note that this project is released with a [Contributor Code of Conduct](code-of-conduct.md). By participating in this project you agree to abide by its terms.
 
-### Submission Guidelines
+## Submission Guidelines
 
 Please ensure your pull request adheres to the following guidelines:
 
@@ -12,7 +12,7 @@ Please ensure your pull request adheres to the following guidelines:
 - Link additions should be added to the bottom of the relevant section.
 - New categories or improvements to the existing categorization are welcome.
 
-### Adding something to this list
+## Adding something to this list
 
 If you have something awesome to contribute to this list, this is how you do it.
 
